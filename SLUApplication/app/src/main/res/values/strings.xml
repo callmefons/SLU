@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SLU</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialogue_fragment_label">Dialogue Fragment</string>
+    <string name="result">...</string>
+
+</resources>
